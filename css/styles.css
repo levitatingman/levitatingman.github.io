@@ -4,3 +4,19 @@ body {
     background-repeat: no-repeat;
     background-color: #111;
 }
+
+@media (max-width: 300px) {
+  body {
+    background-image: url("../img/mobile_background.jpg");
+  }
+}
+@media (min-width: 301px) and (max-width: 600px) {
+  body {
+    background-image: url("../img/mobile_background.jpg");
+  }
+}
+@media (min-width: 601px) and (max-width: 768px) {
+  body {
+    background-image: url("../img/mobile_background.jpg");
+  }
+}
