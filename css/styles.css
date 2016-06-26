@@ -4,18 +4,3 @@ body {
     background-repeat: no-repeat;
     background-color: #111;
 }
-
-h1 {
-  color: white;
-  font-family: 'Fugaz One', cursive;
-  text-shadow: 2px 2px 4px #555;
-  font-size: 3em;
-}
-
-h3 {
-  color: white;
-  font-family: 'Fugaz One', cursive;
-  text-shadow: 2px 2px 2px #555;
-  font-size: 2em;
-  text-align: right;
-}
