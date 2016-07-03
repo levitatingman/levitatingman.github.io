@@ -5,13 +5,14 @@ body {
 }
 
 h1 {
-  font-family: 'Audiowide', cursive;
-  background-color: #565656;
+  font-family: 'Permanent Marker', cursive;
+	color: #ef233c;
+  /*background-color: #565656;
   color: transparent;
   text-shadow: 0px 2px 3px rgba(239,35,60,0.7);
   -webkit-background-clip: text;
   -moz-background-clip: text;
-  background-clip: text;
+  background-clip: text;*/
   font-size: 4em;
 }
 
