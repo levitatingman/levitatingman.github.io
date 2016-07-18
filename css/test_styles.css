@@ -2,25 +2,6 @@
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,dfn,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
 
-
-/*@font-face {
-    font-family: 'Passion One', cursive;
-    src: url('socicon/font/socicon-webfont.eot');
-    src: url('socicon/font/socicon-webfont.eot?#iefix') format('embedded-opentype'),
-         url('socicon/font/socicon-webfont.woff') format('woff'),
-         url('socicon/font/socicon-webfont.ttf') format('truetype'),
-         url('socicon/font/socicon-webfont.svg#sociconregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    text-transform: initial;
-}*/
-
-@font-face {
-  font-family: 'Passion One', cursive;
-}
-
-
-
 html,
 body {
     margin: 0;
@@ -106,15 +87,12 @@ background-size: cover;
 
 .content p{
 	font-size: 27px;
-	font-weight: 700;
+	/*font-weight: 700;*/
+  padding-bottom: 5px;
+  /*font-family: 'Forum', cursive;*/
+  /*font-family: 'Droid Sans', sans-serif;*/
+  font-family: 'Lora', serif;
 }
-
-
-
-
-
-
-
 
 .form{
 	width: 40%;
@@ -148,7 +126,7 @@ background-size: cover;
 	background: #fff;
 	border-top: none;
 	border-left: none;
-	font-family: 'Lora', serif;
+	font-family: 'Forum', cursive;
 	font-weight: 400;
 	border: 2px solid #fff;
 	font-size: 16px;
@@ -268,7 +246,7 @@ background-size: cover;
 
 .header p.line1{
 	font-size: 18px;
-	font-weight: 300;
+	/*font-weight: 300;*/
 	margin-bottom: 10px;
 	margin-top: -10px;
 }
@@ -276,7 +254,7 @@ background-size: cover;
 
 .content p{
 	font-size: 23px;
-	font-weight: 700;
+	/*font-weight: 700;*/
 }
 
 
